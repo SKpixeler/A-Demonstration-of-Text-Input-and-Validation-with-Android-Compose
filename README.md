@@ -1,3 +1,6 @@
+DEMO VIDEO 
+https://user-images.githubusercontent.com/92931093/233097905-1150ed80-d24a-41cd-86bb-9bdb728b0a54.mp4
+
 # A Demonstration of Text Input and Validation with Android Compose
 
 Validating text fields when using jetpack compose can sometimes be challenging and verbose.
